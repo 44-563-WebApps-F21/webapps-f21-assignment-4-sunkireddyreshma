@@ -7,7 +7,7 @@
 .stage-direction
 {
     font-family:'Arial';
-    size:12px;
+    size:20px;
     color:darkgoldenrod;
     background-color:cornsilk;
 
@@ -20,20 +20,20 @@ background-color:darkgrey;
 .ALLONBY
 {
     font-family: 'Times New Roman';
-    size: 12px;
-    color:darkolivegreen;
+    size: 16px;
+    color:mediumblue;
 }
-.LADY CAROLINE
+.LADYCAROLINE
 {
     font-family: 'Times';
-    size: 12px;
-    color:deeppink;
+    size: 16px;
+    color:mediumvioletred;
 }
-.LADY STUTFIELD
+.LADYSTUTFIELD
 {
     font-family:fantasy;
-    size: 12px;
-    color:gold
+    size: 16px;
+    color:maroon;
 
 }
 
