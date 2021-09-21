@@ -34,10 +34,26 @@ background-color:darkgrey;
     font-family:fantasy;
     size: 16px;
     color:maroon;
-
+}
+.ARBUTHNOT
+{
+    font-family:'serif';
+    size:16px;
+    color:peru;
+}
+.HESTER
+{
+    font-family:'Times';
+    size:16px;
+    color:purple;  
+}
+.LADY HUNSTANTON
+{
+    font-family:'Georgia';
+    size:16px;
+    color:seagreen;
 
 }
-
 Table{
     background-color: indianred;
     font-family:'Times New Roman';
