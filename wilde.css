@@ -38,9 +38,14 @@ background-color:darkgrey;
 
 }
 Table{
-    border: dashed 3px red;
+    border: dashed 3px burlywood;
     border-collapse: separate;
 }
+    p {
+        color:grey;
+        text-align: center;
+      }
+
 td, th
 {
     border: solid 1px ;
@@ -50,14 +55,9 @@ tr:nth-child(even)
  {
      background-color: #e2e2e2;
     }
-    div{
-        border: 1px solid black;
-        background-color: lightblue;
-        padding-top: 50px;
-        padding-right: 30px;
-        padding-bottom: 50px;
-        padding-left: 80px;
-    }
+    
+        
+    
 
 
 
