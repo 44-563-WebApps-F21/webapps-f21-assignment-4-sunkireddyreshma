@@ -37,24 +37,30 @@ background-color:darkgrey;
 
 
 }
-Table{
-    border: dashed 3px burlywood;
-    border-collapse: separate;
-}
-    p {
-        color:grey;
-        text-align: center;
-      }
 
-td, th
-{
-    border: solid 1px ;
-    text-align: center;
+Table{
+    background-color: indianred;
+    font-family:'Times New Roman';
+    border:2px solid sienna;
+    width: medium;
+    border-spacing:3px;
+    margin-left:300px;
+    margin-top: 15px;
 }
-tr:nth-child(even)
- {
-     background-color: #e2e2e2;
-    }
+td,th{
+    column-span: 2px;
+    border:2px mistyrose;
+    text-align: left;
+    padding: 12px;
+}
+   tr:nth-child(even)
+   {
+       background-color: mistyrose;
+   }
+   .navbar-horizontal
+   {
+       color:orchid;ss
+   }
     
         
     
