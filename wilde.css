@@ -37,33 +37,22 @@ background-color:darkgrey;
 
 
 }
-table, th, td {
-        text-align: left;
-        padding: 16px;
-        border-collapse: collapse;
-        background-color:lightblue;
+Table{
+    border: dashed 3px red;
+    border-collapse: separate;
+}
+td, th
+{
+    border: solid 1px ;
+    text-align: center;
+}
+tr:nth-child(even)
+ {
+     background-color: #e2e2e2;
     }
-
-
-h1 {
-  color:white;
-  text-align: center;
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-  }
-  tr:nth-child(even) {
-    background-color:olive;
-  }
-}
+
 
 
 
