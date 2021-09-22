@@ -23,6 +23,13 @@ background-color:darkgrey;
     size: 16px;
     color:mediumblue;
 }
+.ALLONBY:hover{
+    text-shadow: sienna;
+    color:steelblue 12px;
+    display:inline;
+
+}
+
 .LADYCAROLINE
 {
     font-family: 'Times';
@@ -77,9 +84,7 @@ td,th{
    {
        color:orchid;
    }
-   h1 {
-    text-shadow: 0 0 3px #FF0000;
-  }
+
     
         
     
