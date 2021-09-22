@@ -75,8 +75,11 @@ td,th{
    }
    .navbar-horizontal
    {
-       color:orchid;ss
+       color:orchid;
    }
+   h1 {
+    text-shadow: 0 0 3px #FF0000;
+  }
     
         
     
