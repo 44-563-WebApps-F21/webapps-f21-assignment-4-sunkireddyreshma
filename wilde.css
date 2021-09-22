@@ -24,9 +24,9 @@ background-color:darkgrey;
     color:mediumblue;
 }
 .ALLONBY:hover{
-    text-shadow:2px 2px sienna;
+
     color:12px steelblue;
-    display:inline;
+   
 
 }
 
@@ -47,6 +47,11 @@ background-color:darkgrey;
     font-family:'serif';
     size:16px;
     color:peru;
+}
+.HESTER:hover{
+    text-shadow: 7px 7px royalblue;
+    border: 3px solid red;
+    display: inline;
 }
 .HESTER
 {
